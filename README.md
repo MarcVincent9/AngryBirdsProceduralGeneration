@@ -6,7 +6,7 @@ The code is a modified version of the generator created by Matthew Stephenson fo
 
 Our focus with this generator was to create varied and irregular structures. Pig placement is the same as in the original baseline generator (and is, admittedly, unadapted to the new structures). TNT was deactivated as it caused instability.
 
-To generate levels, simply execute the Python script. The levels are directly added to Science Birds' data so you can then launch the game to check them out (the genarated levels are the ones starting from level 4).
+To generate levels, simply execute the Python script. The levels are directly added to Science Birds' data so you can then launch the game to check them out (the generated levels are the ones starting from level 4).
 
 This project was made as part of a university assignment so unfortunately the report as well as the comments in the code are all in French. Sorry!
 
