@@ -1,0 +1,1110 @@
+Initialize engine version: 5.5.2f1 (3829d7f588f3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [igdumdim32.dll 10.18.10.3496]
+    Renderer: Intel(R) HD Graphics Family
+    Vendor:   Intel
+    VRAM:     1792 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 INTZ=1 NULL=1 RESZ=1 SlowINTZ=0 ATOC=1 BC4=1 BC5=1
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Marc\Documents\PyStuff\AngryBirdsProceduralGeneration\Science-Birds-Windows\ScienceBirds_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Marc\Documents\PyStuff\AngryBirdsProceduralGeneration\Science-Birds-Windows\ScienceBirds_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Marc\Documents\PyStuff\AngryBirdsProceduralGeneration\Science-Birds-Windows\ScienceBirds_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Marc\Documents\PyStuff\AngryBirdsProceduralGeneration\Science-Birds-Windows\ScienceBirds_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Marc\Documents\PyStuff\AngryBirdsProceduralGeneration\Science-Birds-Windows\ScienceBirds_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Marc\Documents\PyStuff\AngryBirdsProceduralGeneration\Science-Birds-Windows\ScienceBirds_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Marc\Documents\PyStuff\AngryBirdsProceduralGeneration\Science-Birds-Windows\ScienceBirds_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Marc\Documents\PyStuff\AngryBirdsProceduralGeneration\Science-Birds-Windows\ScienceBirds_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Marc\Documents\PyStuff\AngryBirdsProceduralGeneration\Science-Birds-Windows\ScienceBirds_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Marc\Documents\PyStuff\AngryBirdsProceduralGeneration\Science-Birds-Windows\ScienceBirds_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\Marc\Documents\PyStuff\AngryBirdsProceduralGeneration\Science-Birds-Windows\ScienceBirds_Data\Managed\websocket-sharp.dll (this message is harmless)
+Loading C:\Users\Marc\Documents\PyStuff\AngryBirdsProceduralGeneration\Science-Birds-Windows\ScienceBirds_Data\Managed\websocket-sharp.dll into Unity Child Domain
+- Completed reload, in  0.127 seconds
+Platform assembly: C:\Users\Marc\Documents\PyStuff\AngryBirdsProceduralGeneration\Science-Birds-Windows\ScienceBirds_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Marc\Documents\PyStuff\AngryBirdsProceduralGeneration\Science-Birds-Windows\ScienceBirds_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initialized touch support.
+UnloadTime: 4.291415 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 12.255659 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 279.
+Total: 0.639902 ms (FindLiveObjects: 0.059213 ms CreateObjectMapping: 0.054476 ms MarkObjects: 0.512395 ms  DeleteObjects: 0.012632 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.107380 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 317.
+Total: 0.568451 ms (FindLiveObjects: 0.041054 ms CreateObjectMapping: 0.055660 ms MarkObjects: 0.444892 ms  DeleteObjects: 0.025659 ms)
+
+8/5/2019 2:22:46 AM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée.
+                          
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+Error: An exception has occurred while connecting.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.358679 ms
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 283.
+Total: 0.668720 ms (FindLiveObjects: 0.058818 ms CreateObjectMapping: 0.085662 ms MarkObjects: 0.487526 ms  DeleteObjects: 0.035528 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.980184 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 330.
+Total: 0.710169 ms (FindLiveObjects: 0.056055 ms CreateObjectMapping: 0.056055 ms MarkObjects: 0.585031 ms  DeleteObjects: 0.011842 ms)
+
+Platform assembly: C:\Users\Marc\Documents\PyStuff\AngryBirdsProceduralGeneration\Science-Birds-Windows\ScienceBirds_Data\Managed\System.Xml.dll (this message is harmless)
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.503083 ms
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 286.
+Total: 1.273489 ms (FindLiveObjects: 0.058818 ms CreateObjectMapping: 0.077372 ms MarkObjects: 1.086374 ms  DeleteObjects: 0.050134 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.931629 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 399.
+Total: 1.535214 ms (FindLiveObjects: 0.065924 ms CreateObjectMapping: 0.057239 ms MarkObjects: 1.398233 ms  DeleteObjects: 0.012237 ms)
+
+8/5/2019 2:22:50 AM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée.
+                          
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+Error: An exception has occurred while connecting.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+8/5/2019 2:22:54 AM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée.
+                          
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+Error: An exception has occurred while connecting.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+8/5/2019 2:22:57 AM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée.
+                          
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+Error: An exception has occurred while connecting.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+8/5/2019 2:23:00 AM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée.
+                          
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+Error: An exception has occurred while connecting.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+8/5/2019 2:23:03 AM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée.
+                          
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+Error: An exception has occurred while connecting.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+8/5/2019 2:23:06 AM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée.
+                          
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+Error: An exception has occurred while connecting.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+8/5/2019 2:23:09 AM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée.
+                          
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+Error: An exception has occurred while connecting.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+8/5/2019 2:23:12 AM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée.
+                          
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+Error: An exception has occurred while connecting.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+8/5/2019 2:23:15 AM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée.
+                          
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+Error: An exception has occurred while connecting.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 18.350328 ms
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 869.
+Total: 3.356233 ms (FindLiveObjects: 0.832544 ms CreateObjectMapping: 0.233302 ms MarkObjects: 2.216961 ms  DeleteObjects: 0.071845 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.919786 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 896.
+Total: 2.016819 ms (FindLiveObjects: 0.084083 ms CreateObjectMapping: 0.125927 ms MarkObjects: 1.790227 ms  DeleteObjects: 0.015790 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.082821 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 869.
+Total: 2.050373 ms (FindLiveObjects: 0.123164 ms CreateObjectMapping: 0.159877 ms MarkObjects: 1.741277 ms  DeleteObjects: 0.024869 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.996764 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 906.
+Total: 2.424209 ms (FindLiveObjects: 0.091583 ms CreateObjectMapping: 0.148429 ms MarkObjects: 2.155379 ms  DeleteObjects: 0.027633 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.791806 ms
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 869.
+Total: 2.142352 ms (FindLiveObjects: 0.105795 ms CreateObjectMapping: 0.142902 ms MarkObjects: 1.847862 ms  DeleteObjects: 0.044607 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.962025 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 976.
+Total: 2.461711 ms (FindLiveObjects: 0.116453 ms CreateObjectMapping: 0.140533 ms MarkObjects: 2.186170 ms  DeleteObjects: 0.016974 ms)
+
+8/5/2019 2:23:18 AM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée.
+                          
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+Error: An exception has occurred while connecting.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+8/5/2019 2:23:21 AM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée.
+                          
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+Error: An exception has occurred while connecting.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 8.256761 ms
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 869.
+Total: 2.173932 ms (FindLiveObjects: 0.526212 ms CreateObjectMapping: 0.139349 ms MarkObjects: 1.472842 ms  DeleteObjects: 0.035133 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.688063 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 896.
+Total: 1.660352 ms (FindLiveObjects: 0.057634 ms CreateObjectMapping: 0.086452 ms MarkObjects: 1.500870 ms  DeleteObjects: 0.014211 ms)
+
+8/5/2019 2:23:24 AM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée.
+                          
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+Error: An exception has occurred while connecting.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.771357 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 869.
+Total: 1.605086 ms (FindLiveObjects: 0.063556 ms CreateObjectMapping: 0.093162 ms MarkObjects: 1.428234 ms  DeleteObjects: 0.019737 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.652140 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 906.
+Total: 1.934314 ms (FindLiveObjects: 0.080135 ms CreateObjectMapping: 0.140533 ms MarkObjects: 1.700617 ms  DeleteObjects: 0.012237 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.665484 ms
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 869.
+Total: 2.266700 ms (FindLiveObjects: 0.097900 ms CreateObjectMapping: 0.140139 ms MarkObjects: 1.986027 ms  DeleteObjects: 0.041449 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.011370 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 976.
+Total: 2.562374 ms (FindLiveObjects: 0.113690 ms CreateObjectMapping: 0.140533 ms MarkObjects: 2.290386 ms  DeleteObjects: 0.016579 ms)
+
+8/5/2019 2:23:28 AM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée.
+                          
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+Error: An exception has occurred while connecting.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+8/5/2019 2:23:31 AM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée.
+                          
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+Error: An exception has occurred while connecting.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+8/5/2019 2:23:34 AM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée.
+                          
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+Error: An exception has occurred while connecting.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+8/5/2019 2:23:37 AM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée.
+                          
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+Error: An exception has occurred while connecting.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+8/5/2019 2:23:40 AM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée.
+                          
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+Error: An exception has occurred while connecting.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 15.225820 ms
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 869.
+Total: 2.641721 ms (FindLiveObjects: 0.660825 ms CreateObjectMapping: 0.149613 ms MarkObjects: 1.783122 ms  DeleteObjects: 0.046581 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.946629 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 896.
+Total: 2.681196 ms (FindLiveObjects: 0.084872 ms CreateObjectMapping: 0.146850 ms MarkObjects: 2.430920 ms  DeleteObjects: 0.017369 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.908733 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 869.
+Total: 2.262753 ms (FindLiveObjects: 0.110927 ms CreateObjectMapping: 0.141323 ms MarkObjects: 1.982080 ms  DeleteObjects: 0.027633 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.024397 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 906.
+Total: 2.028661 ms (FindLiveObjects: 0.087241 ms CreateObjectMapping: 0.127112 ms MarkObjects: 1.797728 ms  DeleteObjects: 0.015395 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.696275 ms
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 869.
+Total: 1.980501 ms (FindLiveObjects: 0.095926 ms CreateObjectMapping: 0.136586 ms MarkObjects: 1.698644 ms  DeleteObjects: 0.048160 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+8/5/2019 2:23:43 AM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée.
+                          
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+UnloadTime: 0.935576 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 976.
+Total: 2.156958 ms (FindLiveObjects: 0.103821 ms CreateObjectMapping: 0.127112 ms MarkObjects: 1.909050 ms  DeleteObjects: 0.016185 ms)
+
+Error: An exception has occurred while connecting.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 14.611575 ms
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 869.
+Total: 2.959106 ms (FindLiveObjects: 0.633981 ms CreateObjectMapping: 0.151587 ms MarkObjects: 1.985633 ms  DeleteObjects: 0.187115 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.969131 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 896.
+Total: 2.265516 ms (FindLiveObjects: 0.080135 ms CreateObjectMapping: 0.129480 ms MarkObjects: 2.036162 ms  DeleteObjects: 0.018553 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.185853 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 869.
+Total: 1.986422 ms (FindLiveObjects: 0.086452 ms CreateObjectMapping: 0.124348 ms MarkObjects: 1.746015 ms  DeleteObjects: 0.027633 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.903206 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 906.
+Total: 2.033398 ms (FindLiveObjects: 0.116058 ms CreateObjectMapping: 0.155534 ms MarkObjects: 1.745225 ms  DeleteObjects: 0.015790 ms)
+
+8/5/2019 2:23:47 AM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée.
+                          
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+Error: An exception has occurred while connecting.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.537977 ms
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 869.
+Total: 2.078006 ms (FindLiveObjects: 0.102242 ms CreateObjectMapping: 0.138165 ms MarkObjects: 1.795359 ms  DeleteObjects: 0.041449 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.930444 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 976.
+Total: 2.282491 ms (FindLiveObjects: 0.124743 ms CreateObjectMapping: 0.132638 ms MarkObjects: 2.006950 ms  DeleteObjects: 0.016974 ms)
+
+8/5/2019 2:23:50 AM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée.
+                          
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+Error: An exception has occurred while connecting.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 13.501909 ms
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 869.
+Total: 2.579349 ms (FindLiveObjects: 0.555029 ms CreateObjectMapping: 0.134612 ms MarkObjects: 1.841151 ms  DeleteObjects: 0.047765 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.962814 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 896.
+Total: 2.081559 ms (FindLiveObjects: 0.131454 ms CreateObjectMapping: 0.146850 ms MarkObjects: 1.786280 ms  DeleteObjects: 0.015790 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.902416 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 869.
+Total: 2.104060 ms (FindLiveObjects: 0.084478 ms CreateObjectMapping: 0.129085 ms MarkObjects: 1.864047 ms  DeleteObjects: 0.026054 ms)
+
+8/5/2019 2:23:53 AM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée.
+                          
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.866493 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 906.
+Total: 2.145115 ms (FindLiveObjects: 0.092768 ms CreateObjectMapping: 0.170535 ms MarkObjects: 1.865626 ms  DeleteObjects: 0.015395 ms)
+
+Error: An exception has occurred while connecting.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.523766 ms
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 869.
+Total: 2.169195 ms (FindLiveObjects: 0.101452 ms CreateObjectMapping: 0.130664 ms MarkObjects: 1.896023 ms  DeleteObjects: 0.039870 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.973078 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 976.
+Total: 2.440394 ms (FindLiveObjects: 0.107768 ms CreateObjectMapping: 0.135402 ms MarkObjects: 2.178275 ms  DeleteObjects: 0.017764 ms)
+
+8/5/2019 2:23:56 AM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée.
+                          
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+Error: An exception has occurred while connecting.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+8/5/2019 2:23:59 AM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée.
+                          
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+Error: An exception has occurred while connecting.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+8/5/2019 2:24:02 AM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée.
+                          
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+Error: An exception has occurred while connecting.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+8/5/2019 2:24:06 AM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée.
+                          
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+Error: An exception has occurred while connecting.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+8/5/2019 2:24:09 AM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée.
+                          
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+Error: An exception has occurred while connecting.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+8/5/2019 2:24:12 AM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée.
+                          
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+Error: An exception has occurred while connecting.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+8/5/2019 2:24:15 AM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée.
+                          
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+Error: An exception has occurred while connecting.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+8/5/2019 2:24:18 AM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée.
+                          
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+Error: An exception has occurred while connecting.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+8/5/2019 2:24:21 AM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée.
+                          
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+Error: An exception has occurred while connecting.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 11.403377 ms
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 869.
+Total: 1.867600 ms (FindLiveObjects: 0.448050 ms CreateObjectMapping: 0.119216 ms MarkObjects: 1.262831 ms  DeleteObjects: 0.035528 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.707801 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 896.
+Total: 1.576269 ms (FindLiveObjects: 0.109347 ms CreateObjectMapping: 0.120006 ms MarkObjects: 1.334282 ms  DeleteObjects: 0.011842 ms)
+
+8/5/2019 2:24:24 AM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée.
+                          
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.798990 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 869.
+Total: 1.421523 ms (FindLiveObjects: 0.101452 ms CreateObjectMapping: 0.099479 ms MarkObjects: 1.200459 ms  DeleteObjects: 0.018948 ms)
+
+Error: An exception has occurred while connecting.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.624902 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 906.
+Total: 1.470473 ms (FindLiveObjects: 0.108163 ms CreateObjectMapping: 0.127901 ms MarkObjects: 1.222171 ms  DeleteObjects: 0.011053 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.878258 ms
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 869.
+Total: 1.942999 ms (FindLiveObjects: 0.136191 ms CreateObjectMapping: 0.146850 ms MarkObjects: 1.609033 ms  DeleteObjects: 0.048950 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.960051 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 976.
+Total: 2.266700 ms (FindLiveObjects: 0.108953 ms CreateObjectMapping: 0.129085 ms MarkObjects: 2.011292 ms  DeleteObjects: 0.016579 ms)
+
+8/5/2019 2:24:27 AM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée.
+                          
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+Error: An exception has occurred while connecting.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 15.598472 ms
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 869.
+Total: 2.443552 ms (FindLiveObjects: 0.588189 ms CreateObjectMapping: 0.141718 ms MarkObjects: 1.666668 ms  DeleteObjects: 0.045397 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.138482 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 896.
+Total: 2.644089 ms (FindLiveObjects: 0.109742 ms CreateObjectMapping: 0.155929 ms MarkObjects: 2.356311 ms  DeleteObjects: 0.020527 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.027950 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 869.
+Total: 2.071690 ms (FindLiveObjects: 0.138560 ms CreateObjectMapping: 0.166587 ms MarkObjects: 1.737725 ms  DeleteObjects: 0.027633 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.880705 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 906.
+Total: 2.128930 ms (FindLiveObjects: 0.143297 ms CreateObjectMapping: 0.161456 ms MarkObjects: 1.804044 ms  DeleteObjects: 0.018158 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.721145 ms
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 869.
+Total: 1.934709 ms (FindLiveObjects: 0.110137 ms CreateObjectMapping: 0.124743 ms MarkObjects: 1.657194 ms  DeleteObjects: 0.041844 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.948208 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 976.
+Total: 2.314071 ms (FindLiveObjects: 0.109742 ms CreateObjectMapping: 0.140533 ms MarkObjects: 2.046820 ms  DeleteObjects: 0.016579 ms)
+
+8/5/2019 2:24:30 AM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée.
+                          
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+Error: An exception has occurred while connecting.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 11.440089 ms
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 869.
+Total: 2.473159 ms (FindLiveObjects: 0.525423 ms CreateObjectMapping: 0.149218 ms MarkObjects: 1.749567 ms  DeleteObjects: 0.047765 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.879915 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 896.
+Total: 2.006555 ms (FindLiveObjects: 0.084872 ms CreateObjectMapping: 0.139349 ms MarkObjects: 1.764963 ms  DeleteObjects: 0.016579 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.066241 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 869.
+Total: 1.953657 ms (FindLiveObjects: 0.125927 ms CreateObjectMapping: 0.150402 ms MarkObjects: 1.644167 ms  DeleteObjects: 0.031580 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.903996 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 906.
+Total: 2.165248 ms (FindLiveObjects: 0.086057 ms CreateObjectMapping: 0.127112 ms MarkObjects: 1.932340 ms  DeleteObjects: 0.018553 ms)
+
+8/5/2019 2:24:33 AM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée.
+                          
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+Error: An exception has occurred while connecting.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.615744 ms
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 869.
+Total: 2.060242 ms (FindLiveObjects: 0.137770 ms CreateObjectMapping: 0.149613 ms MarkObjects: 1.731803 ms  DeleteObjects: 0.039870 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.986105 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 976.
+Total: 2.263148 ms (FindLiveObjects: 0.103031 ms CreateObjectMapping: 0.130664 ms MarkObjects: 2.011292 ms  DeleteObjects: 0.016974 ms)
+
+8/5/2019 2:24:37 AM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée.
+                          
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+Error: An exception has occurred while connecting.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 21.394308 ms
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 869.
+Total: 2.795676 ms (FindLiveObjects: 0.712933 ms CreateObjectMapping: 0.151587 ms MarkObjects: 1.881022 ms  DeleteObjects: 0.048950 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.877547 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 896.
+Total: 2.145904 ms (FindLiveObjects: 0.098294 ms CreateObjectMapping: 0.156324 ms MarkObjects: 1.874311 ms  DeleteObjects: 0.015395 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.247830 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 869.
+Total: 2.320388 ms (FindLiveObjects: 0.087636 ms CreateObjectMapping: 0.137770 ms MarkObjects: 2.067348 ms  DeleteObjects: 0.026843 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.855835 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 906.
+Total: 2.090244 ms (FindLiveObjects: 0.084478 ms CreateObjectMapping: 0.131059 ms MarkObjects: 1.857731 ms  DeleteObjects: 0.015790 ms)
+
+8/5/2019 2:24:40 AM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée.
+                          
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+Error: An exception has occurred while connecting.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.896417 ms
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 869.
+Total: 2.453026 ms (FindLiveObjects: 0.146455 ms CreateObjectMapping: 0.158297 ms MarkObjects: 2.102876 ms  DeleteObjects: 0.044212 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.884258 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 976.
+Total: 2.446710 ms (FindLiveObjects: 0.109347 ms CreateObjectMapping: 0.134217 ms MarkObjects: 2.187354 ms  DeleteObjects: 0.015395 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 20.617031 ms
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 869.
+Total: 3.596640 ms (FindLiveObjects: 0.680168 ms CreateObjectMapping: 0.150008 ms MarkObjects: 2.699355 ms  DeleteObjects: 0.065135 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.958077 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 896.
+Total: 2.310913 ms (FindLiveObjects: 0.085662 ms CreateObjectMapping: 0.131059 ms MarkObjects: 2.074848 ms  DeleteObjects: 0.017764 ms)
+
+8/5/2019 2:24:44 AM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée.
+                          
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+Error: An exception has occurred while connecting.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.051240 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 869.
+Total: 2.192881 ms (FindLiveObjects: 0.136981 ms CreateObjectMapping: 0.162640 ms MarkObjects: 1.866021 ms  DeleteObjects: 0.026054 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.942682 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 906.
+Total: 2.109587 ms (FindLiveObjects: 0.134612 ms CreateObjectMapping: 0.144086 ms MarkObjects: 1.813913 ms  DeleteObjects: 0.015790 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.813123 ms
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 869.
+Total: 2.193670 ms (FindLiveObjects: 0.104610 ms CreateObjectMapping: 0.140928 ms MarkObjects: 1.905497 ms  DeleteObjects: 0.041054 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.883468 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 976.
+Total: 2.467632 ms (FindLiveObjects: 0.111321 ms CreateObjectMapping: 0.140139 ms MarkObjects: 2.197223 ms  DeleteObjects: 0.017764 ms)
+
+8/5/2019 2:24:47 AM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée.
+                          
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+Error: An exception has occurred while connecting.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 12.319611 ms
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 869.
+Total: 2.959501 ms (FindLiveObjects: 0.663588 ms CreateObjectMapping: 0.202905 ms MarkObjects: 2.033793 ms  DeleteObjects: 0.058029 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.930050 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 896.
+Total: 2.693434 ms (FindLiveObjects: 0.088031 ms CreateObjectMapping: 0.139349 ms MarkObjects: 2.442368 ms  DeleteObjects: 0.022501 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.798595 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 869.
+Total: 1.862863 ms (FindLiveObjects: 0.070661 ms CreateObjectMapping: 0.141323 ms MarkObjects: 1.627982 ms  DeleteObjects: 0.022106 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.723196 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 906.
+Total: 1.899970 ms (FindLiveObjects: 0.107768 ms CreateObjectMapping: 0.127112 ms MarkObjects: 1.650878 ms  DeleteObjects: 0.013027 ms)
+
+8/5/2019 2:24:50 AM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée.
+                          
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+Error: An exception has occurred while connecting.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.712065 ms
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 869.
+Total: 2.187749 ms (FindLiveObjects: 0.134217 ms CreateObjectMapping: 0.147639 ms MarkObjects: 1.852994 ms  DeleteObjects: 0.051713 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.975447 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 976.
+Total: 2.514214 ms (FindLiveObjects: 0.166587 ms CreateObjectMapping: 0.141718 ms MarkObjects: 2.187749 ms  DeleteObjects: 0.016579 ms)
+
+8/5/2019 2:24:53 AM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée.
+                          
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+Error: An exception has occurred while connecting.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+8/5/2019 2:24:56 AM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée.
+                          
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+Error: An exception has occurred while connecting.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 20.096344 ms
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 869.
+Total: 3.462028 ms (FindLiveObjects: 0.540818 ms CreateObjectMapping: 0.240802 ms MarkObjects: 2.607771 ms  DeleteObjects: 0.070661 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.970315 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 896.
+Total: 2.018792 ms (FindLiveObjects: 0.086452 ms CreateObjectMapping: 0.134612 ms MarkObjects: 1.779569 ms  DeleteObjects: 0.016579 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.129797 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 869.
+Total: 2.008923 ms (FindLiveObjects: 0.083293 ms CreateObjectMapping: 0.125927 ms MarkObjects: 1.773253 ms  DeleteObjects: 0.025659 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.956104 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 906.
+Total: 1.995107 ms (FindLiveObjects: 0.135402 ms CreateObjectMapping: 0.148429 ms MarkObjects: 1.693512 ms  DeleteObjects: 0.016579 ms)
+
+8/5/2019 2:25:00 AM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée.
+                          
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+Error: An exception has occurred while connecting.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.747199 ms
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 869.
+Total: 1.964710 ms (FindLiveObjects: 0.094347 ms CreateObjectMapping: 0.125927 ms MarkObjects: 1.698644 ms  DeleteObjects: 0.044607 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.972683 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 976.
+Total: 2.302229 ms (FindLiveObjects: 0.107374 ms CreateObjectMapping: 0.165798 ms MarkObjects: 2.011292 ms  DeleteObjects: 0.016579 ms)
+
+8/5/2019 2:25:03 AM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée.
+                          
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+Error: An exception has occurred while connecting.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+8/5/2019 2:25:06 AM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée.
+                          
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+Error: An exception has occurred while connecting.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+8/5/2019 2:25:09 AM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée.
+                          
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+Error: An exception has occurred while connecting.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+8/5/2019 2:25:13 AM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée.
+                          
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+Error: An exception has occurred while connecting.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+8/5/2019 2:25:16 AM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée.
+                          
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+Error: An exception has occurred while connecting.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+8/5/2019 2:25:19 AM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée.
+                          
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+Error: An exception has occurred while connecting.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+8/5/2019 2:25:22 AM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée.
+                          
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+Error: An exception has occurred while connecting.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+8/5/2019 2:25:25 AM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée.
+                          
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+Error: An exception has occurred while connecting.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+8/5/2019 2:25:28 AM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée.
+                          
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+Error: An exception has occurred while connecting.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+8/5/2019 2:25:31 AM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée.
+                          
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+Error: An exception has occurred while connecting.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+8/5/2019 2:25:34 AM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée.
+                          
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+Error: An exception has occurred while connecting.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+8/5/2019 2:25:37 AM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée.
+                          
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+Error: An exception has occurred while connecting.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+8/5/2019 2:25:40 AM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée.
+                          
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+Error: An exception has occurred while connecting.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+8/5/2019 2:25:43 AM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée.
+                          
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+Error: An exception has occurred while connecting.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+8/5/2019 2:25:46 AM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée.
+                          
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+Error: An exception has occurred while connecting.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+8/5/2019 2:25:49 AM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée.
+                          
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+Error: An exception has occurred while connecting.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+8/5/2019 2:25:52 AM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée.
+                          
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+Error: An exception has occurred while connecting.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+8/5/2019 2:25:55 AM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée.
+                          
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+Error: An exception has occurred while connecting.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 850 -> priority: 1 
